@@ -137,7 +137,7 @@ public class Homework1
        // c.Empty the list of albums and check that the size is zero.
 
 // a.
-import java.util.*;
+
 public class Homework1
 {
 
@@ -162,7 +162,7 @@ public class Homework1
 }
 
 //b
-	import java.util.*;
+	
 public class Homework1
 {
 
@@ -185,7 +185,7 @@ public class Homework1
 }
 
 //c
-  import java.util.*;
+  
 public class Homework1
 {
 
